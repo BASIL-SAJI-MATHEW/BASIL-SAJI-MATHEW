@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Basil Saji Mathew! 👋</h1>
 
 <p align="center">
-🚀 Python Backend Developer | AI & Cloud Enthusiast  
+ Python Backend Developer | AI & Cloud Enthusiast  
 </p>
 
 ---

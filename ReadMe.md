@@ -160,8 +160,8 @@
 <a href="mailto:basilsajim@gmail.com">
     <img src="https://img.shields.io/badge/Email-basilsajim@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact Link" />
 </a>
-<a href="mailto:contact@altivorahosting.com">
-    <img src="https://img.shields.io/badge/Business-contact@altivorahosting.com-0f172a?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Business Email Link" />
+<a href="mailto:coo.Basil@altivorahosting.com">
+    <img src="https://img.shields.io/badge/Business-coo.Basil@altivorahosting.com-0f172a?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Business Email Link" />
 </a>
 <a href="https://www.altivorahosting.com">
     <img src="https://img.shields.io/badge/Altivora%20Hosting-Website-0f172a?style=for-the-badge" alt="Altivora Hosting Website Link" />
@@ -182,5 +182,5 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Made%20with-Passion-0f172a?style=for-the-badge" alt="Made with Passion Badge" />
-<img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-0f172a?style=for-the-badge" alt="Powered by Coffee and Code Badge" />
+<img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-0f172a?style=for-the-badge" alt="Powered by BSM Developments" />
 </p>

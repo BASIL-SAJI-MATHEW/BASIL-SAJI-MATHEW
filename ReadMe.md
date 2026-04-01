@@ -24,9 +24,9 @@
   <img src="https://komarev.com/ghpvc/?username=BASIL-SAJI-MATHEW&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views Analytics" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1000&auto=format&fit=crop" width="800" alt="Futuristic Developer Workspace Thumbnail" style="border-radius: 15px;" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider Section Divider" />

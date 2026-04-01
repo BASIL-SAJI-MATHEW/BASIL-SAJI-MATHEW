@@ -110,32 +110,35 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control">BSM Weapon Control System</a></h3>
-      <p>Advanced FiveM weapon disarm system supporting ESX, QBCore, Qbox, and Standalone architectures. Engineered with dynamic radius controls, optimized MySQL persistence, and native ox_inventory integration.</p>
+      <p>Advanced FiveM weapon control framework supporting ESX, QBCore, Qbox, and Standalone systems. Features dynamic radius enforcement, optimized MySQL persistence, and seamless ox_inventory integration for high-performance server environments.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=BSM_Weapon_Control&theme=tokyonight&bg_color=0f172a&border_color=38BDF8&hide_border=true&title_color=38BDF8&text_color=E2E8F0" alt="BSM Weapon Control System Repository Visual" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=BSM_Weapon_Control&theme=tokyonight&bg_color=0f172a&border_color=38BDF8&hide_border=true&title_color=38BDF8&text_color=E2E8F0" width="100%" />
       </a>
     </td>
+
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System">Automatic SFTP Backup System</a></h3>
-      <p>Industrial multi-server VPS backup framework. Orchestrates synchronization, automated encryption, heavy compression, robust database dumps, and real-time Discord telemetry notifications.</p>
+      <p>Enterprise-grade multi-server VPS backup framework handling synchronization, encryption, and compression workflows. Includes automated database dumps, retention control policies, and real-time Discord telemetry for monitoring reliability.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Automatic-SFTP-Backup-System&theme=tokyonight&bg_color=0f172a&border_color=7C3AED&hide_border=true&title_color=7C3AED&text_color=E2E8F0" alt="Automatic SFTP Backup System Repository Visual" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Automatic-SFTP-Backup-System&theme=tokyonight&bg_color=0f172a&border_color=7C3AED&hide_border=true&title_color=7C3AED&text_color=E2E8F0" width="100%" />
       </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor">RDP Login Monitor</a></h3>
-      <p>Proactive Threat detection infrastructure built natively in Python. Monitors real-time Windows Event logs for aggressive SSH/RDP intrusion sequences, acting as an active SIEM component.</p>
+      <p>Real-time threat detection system built in Python for monitoring Windows Event logs. Detects brute-force SSH and RDP intrusion attempts, acting as a lightweight SIEM solution for proactive security response.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Rdp-Login-Monitor&theme=tokyonight&bg_color=0f172a&border_color=F43F5E&hide_border=true&title_color=F43F5E&text_color=E2E8F0" alt="RDP Login Monitor Repository Visual" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Rdp-Login-Monitor&theme=tokyonight&bg_color=0f172a&border_color=F43F5E&hide_border=true&title_color=F43F5E&text_color=E2E8F0" width="100%" />
       </a>
     </td>
+
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup">FiveM Database Backup</a></h3>
-      <p>Performance-centric DB state-management backing system for FiveM servers. Handles MySQL pipelines, automated retention policies, gzip formatting, and operational alerts seamlessly with scalable architecture and optimized resource utilization.</p>
+      <p>Performance-focused database backup system for FiveM servers with efficient MySQL pipeline handling. Supports automated retention policies, gzip compression, and real-time alerting with scalable and optimized resource management.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=fivem-database-backup&theme=tokyonight&bg_color=0f172a&border_color=10B981&hide_border=true&title_color=10B981&text_color=E2E8F0" alt="FiveM Database Backup Repository Visual" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=fivem-database-backup&theme=tokyonight&bg_color=0f172a&border_color=10B981&hide_border=true&title_color=10B981&text_color=E2E8F0" width="100%" />
       </a>
     </td>
   </tr>

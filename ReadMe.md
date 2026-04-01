@@ -182,5 +182,5 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Made%20with-Passion-0f172a?style=for-the-badge" alt="Made with Passion Badge" />
-<img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-0f172a?style=for-the-badge" alt="Powered by BSM Developments" />
+<img src="https://img.shields.io/badge/Powered%20by-BSM%20Developments-0f172a?style=for-the-badge" alt="Powered by BSM Developments" />
 </p>

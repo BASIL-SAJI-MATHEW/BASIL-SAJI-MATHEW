@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" width="800" alt="Futuristic Developer Workspace Thumbnail" style="border-radius: 15px;" />
+  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1000&auto=format&fit=crop" width="800" alt="Futuristic Developer Workspace Thumbnail" style="border-radius: 15px;" />
 </p>
 
 <p align="center">

@@ -1,4 +1,5 @@
-# BASIL SAJI MATHEW | Full-Stack Developer & DevOps Engineer
+
+# BASIL SAJI MATHEW | Full-Stack Developer, DevOps Engineer, CEO of Altivora Hosting
 
 <p align="center">
   <img
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/Specialist-Full--Stack%20%26%20DevOps-0f172a?style=for-the-badge" alt="Specialist Badge" />
   <img src="https://img.shields.io/badge/Expert-FiveM%20%26%20Game%20Dev-0f172a?style=for-the-badge" alt="Expert Badge" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Automation-0f172a?style=for-the-badge" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/CEO-Altivora%20Hosting-0f172a?style=for-the-badge" alt="CEO Altivora Hosting" />
 </p>
 
 <p align="center">
@@ -20,6 +22,9 @@
   </a>
   <a href="https://github.com/BASIL-SAJI-MATHEW">
     <img src="https://img.shields.io/github/stars/BASIL-SAJI-MATHEW?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+  <a href="https://www.altivorahosting.com">
+    <img src="https://img.shields.io/badge/Altivora%20Hosting-Website-0f172a?style=for-the-badge" alt="Altivora Hosting Website" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=BASIL-SAJI-MATHEW&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
@@ -34,26 +39,27 @@
 
 ---
 
+
 ## About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=1000&lines=Innovative+Full-Stack+Developer+with+a+passion+for+DevOps+and+Cybersecurity;Specializing+in+FiveM+game+development,+automated+systems,+and+secure+infrastructures;Building+robust+solutions+for+real-world+problems+with+efficiency+and+creativity" alt="About Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=1000&lines=CEO+of+Altivora+Hosting;Full-Stack+Developer+and+DevOps+Engineer;Specializing+in+FiveM+game+development,+automated+systems,+and+secure+infrastructures;Building+robust+solutions+for+real-world+problems+with+efficiency+and+creativity" alt="About Typing" />
 </p>
 
-I am BASIL SAJI MATHEW, a dedicated Full-Stack Developer and DevOps Engineer with a strong focus on cybersecurity and automation. My expertise spans across building scalable web applications, managing server infrastructures, developing advanced FiveM scripts, and implementing security monitoring systems.
+I am BASIL SAJI MATHEW, CEO of [Altivora Hosting](https://www.altivorahosting.com), Full-Stack Developer, and DevOps Engineer with a strong focus on cybersecurity and automation. My expertise spans building scalable web applications, managing server infrastructures, developing advanced FiveM scripts, and implementing security monitoring systems.
 
 ### What Drives Me
-- Innovation: Constantly exploring new technologies to solve complex problems.
+- Innovation: Exploring new technologies to solve complex problems.
 - Security: Ensuring systems are robust against threats and vulnerabilities.
 - Automation: Streamlining processes for efficiency and reliability.
-- Community: Contributing to open-source projects and helping fellow developers.
+- Community: Contributing to open-source projects and supporting fellow developers.
+
 
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BASIL-SAJI-MATHEW&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=00D4FF&text_color=E2E8F0&icon_color=00FF88" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BASIL-SAJI-MATHEW&theme=dark&hide_border=true&background=0f172a&stroke=00D4FF&ring=00FF88&fire=00FF88&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=00D4FF&sideLabels=E2E8F0&dates=E2E8F0" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BASIL-SAJI-MATHEW&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=00D4FF&text_color=E2E8F0" alt="Top Languages" />
 </p>
@@ -124,6 +130,7 @@ Advanced RDP Login Monitoring & Alert System built with Python. Detects, analyze
 
 ---
 
+
 ## Connect With Me
 
 <p align="center">
@@ -133,16 +140,19 @@ Advanced RDP Login Monitoring & Alert System built with Python. Detects, analyze
   <a href="https://linkedin.com/in/basil-saji-mathew">
     <img src="https://img.shields.io/badge/LinkedIn-Basil%20Saji%20Mathew-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:basil.saji.mathew@example.com">
-    <img src="https://img.shields.io/badge/Email-Bas%40example.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:contact@altivorahosting.com">
+    <img src="https://img.shields.io/badge/Email-contact@altivorahosting.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/basil_saji">
     <img src="https://img.shields.io/badge/Twitter-@basil_saji-0f172a?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://www.altivorahosting.com">
+    <img src="https://img.shields.io/badge/Altivora%20Hosting-Website-0f172a?style=for-the-badge" alt="Altivora Hosting Website" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!;Open+to+Collaborations+and+New+Opportunities" alt="Connect Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Open+to+Collaborations+and+New+Opportunities" alt="Connect Typing" />
 </p>
 
 ---

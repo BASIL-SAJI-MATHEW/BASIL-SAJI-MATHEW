@@ -58,7 +58,7 @@
 <h2 align="center">Analytics & GitHub Statistics</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BASIL-SAJI-MATHEW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0&icon_color=7C3AED" alt="GitHub Global Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BASIL-SAJI-MATHEW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0&icon_color=7C3AED" alt="GitHub Global Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BASIL-SAJI-MATHEW&theme=tokyonight&hide_border=true&background=0f172a&stroke=38BDF8&ring=7C3AED&fire=F43F5E&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=E2E8F0" alt="GitHub Streak Tracker" />
 </p>
 
@@ -67,8 +67,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BASIL-SAJI-MATHEW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages Metrics" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BASIL-SAJI-MATHEW&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0" alt="Wakatime Coding Hours" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BASIL-SAJI-MATHEW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages Metrics" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=BASIL-SAJI-MATHEW&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0" alt="Wakatime Coding Hours" />
 </p>
 
 <p align="center">
@@ -117,14 +117,14 @@
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control">BSM Weapon Control System</a></h3>
       <p>Advanced FiveM weapon disarm system supporting ESX, QBCore, Qbox, and Standalone architectures. Engineered with dynamic radius controls, optimized MySQL persistence, and native ox_inventory integration.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=BSM_Weapon_Control&theme=tokyonight&bg_color=0f172a&border_color=38BDF8&hide_border=true&title_color=38BDF8&text_color=E2E8F0" alt="BSM Weapon Control System Repository Visual" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=BSM_Weapon_Control&theme=tokyonight&bg_color=0f172a&border_color=38BDF8&hide_border=true&title_color=38BDF8&text_color=E2E8F0" alt="BSM Weapon Control System Repository Visual" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System">Automatic SFTP Backup System</a></h3>
       <p>Industrial multi-server VPS backup framework. Orchestrates synchronization, automated encryption, heavy compression, robust database dumps, and real-time Discord telemetry notifications.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Automatic-SFTP-Backup-System&theme=tokyonight&bg_color=0f172a&border_color=7C3AED&hide_border=true&title_color=7C3AED&text_color=E2E8F0" alt="Automatic SFTP Backup System Repository Visual" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Automatic-SFTP-Backup-System&theme=tokyonight&bg_color=0f172a&border_color=7C3AED&hide_border=true&title_color=7C3AED&text_color=E2E8F0" alt="Automatic SFTP Backup System Repository Visual" width="100%" />
       </a>
     </td>
   </tr>
@@ -133,14 +133,14 @@
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor">RDP Login Monitor</a></h3>
       <p>Proactive Threat detection infrastructure built natively in Python. Monitors real-time Windows Event logs for aggressive SSH/RDP intrusion sequences, acting as an active SIEM component.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Rdp-Login-Monitor&theme=tokyonight&bg_color=0f172a&border_color=F43F5E&hide_border=true&title_color=F43F5E&text_color=E2E8F0" alt="RDP Login Monitor Repository Visual" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Rdp-Login-Monitor&theme=tokyonight&bg_color=0f172a&border_color=F43F5E&hide_border=true&title_color=F43F5E&text_color=E2E8F0" alt="RDP Login Monitor Repository Visual" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup">FiveM Database Backup</a></h3>
       <p>Performance-centric DB state-management backing system for FiveM servers. Handles MySQL pipelines, automated retention policies, gzip formatting, and operational alerts seamlessly.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=fivem-database-backup&theme=tokyonight&bg_color=0f172a&border_color=10B981&hide_border=true&title_color=10B981&text_color=E2E8F0" alt="FiveM Database Backup Repository Visual" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=fivem-database-backup&theme=tokyonight&bg_color=0f172a&border_color=10B981&hide_border=true&title_color=10B981&text_color=E2E8F0" alt="FiveM Database Backup Repository Visual" width="100%" />
       </a>
     </td>
   </tr>

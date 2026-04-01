@@ -170,7 +170,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+poetry+in+motion.&author=Unknown" alt="Coding Quote Motivation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+poetry+in+motion" alt="Coding Quote Motivation" />
 </p>
 
 <p align="center">

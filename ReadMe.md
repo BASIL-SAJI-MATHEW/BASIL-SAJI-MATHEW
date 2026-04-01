@@ -68,9 +68,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BASIL-SAJI-MATHEW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages Metrics" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=BASIL-SAJI-MATHEW&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0" alt="Wakatime Coding Hours" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider Section Divider" />
 </p>

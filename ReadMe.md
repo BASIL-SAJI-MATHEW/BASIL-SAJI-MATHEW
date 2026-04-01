@@ -17,9 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BASIL-SAJI-MATHEW">
-      <img src="https://img.shields.io/github/followers/BASIL-SAJI-MATHEW?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
   <a href="https://www.altivorahosting.com">
       <img src="https://img.shields.io/badge/Altivora%20Hosting-Website-0f172a?style=for-the-badge" alt="Altivora Hosting Website" />
   </a>

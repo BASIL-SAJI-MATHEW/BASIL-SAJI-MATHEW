@@ -133,7 +133,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup">FiveM Database Backup</a></h3>
-      <p>Performance-centric DB state-management backing system for FiveM servers. Handles MySQL pipelines, automated retention policies, gzip formatting, and operational alerts seamlessly.</p>
+      <p>Performance-centric DB state-management backing system for FiveM servers. Handles MySQL pipelines, automated retention policies, gzip formatting, and operational alerts seamlessly with scalable architecture and optimized resource utilization.</p>
       <a href="https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=fivem-database-backup&theme=tokyonight&bg_color=0f172a&border_color=10B981&hide_border=true&title_color=10B981&text_color=E2E8F0" alt="FiveM Database Backup Repository Visual" width="100%" />
       </a>

@@ -111,7 +111,7 @@ Production-grade IP whitelisting with **RBAC**, async processing and time-based 
 
 `FastAPI` `Redis` `PostgreSQL` `Docker`
 
-[![card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=IP-Whitelist-Automation&theme=tokyonight&bg_color=0f172a&border_color=38BDF8&hide_border=true&title_color=38BDF8&text_color=E2E8F0)](https://github.com/BASIL-SAJI-MATHEW/IP-Whitelist-Automation)
+[![Stars](https://img.shields.io/github/stars/BASIL-SAJI-MATHEW/IP-Whitelist-Automation?style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/BASIL-SAJI-MATHEW/IP-Whitelist-Automation) ![Last commit](https://img.shields.io/github/last-commit/BASIL-SAJI-MATHEW/IP-Whitelist-Automation?style=flat-square&color=7C3AED&labelColor=0f172a) ![Language](https://img.shields.io/github/languages/top/BASIL-SAJI-MATHEW/IP-Whitelist-Automation?style=flat-square&color=F43F5E&labelColor=0f172a)
 
 </td>
 <td width="50%" valign="top">
@@ -121,7 +121,7 @@ Real-time detection and alerting of suspicious Remote Desktop logins via Windows
 
 `Python` `SIEM` `Discord Alerts`
 
-[![card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Rdp-Login-Monitor&theme=tokyonight&bg_color=0f172a&border_color=F43F5E&hide_border=true&title_color=F43F5E&text_color=E2E8F0)](https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor)
+[![Stars](https://img.shields.io/github/stars/BASIL-SAJI-MATHEW/Rdp-Login-Monitor?style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor) ![Last commit](https://img.shields.io/github/last-commit/BASIL-SAJI-MATHEW/Rdp-Login-Monitor?style=flat-square&color=7C3AED&labelColor=0f172a) ![Language](https://img.shields.io/github/languages/top/BASIL-SAJI-MATHEW/Rdp-Login-Monitor?style=flat-square&color=F43F5E&labelColor=0f172a)
 
 </td>
 </tr>
@@ -133,7 +133,7 @@ Multi-server VPS backups with sync, encryption, compression, database dumps and 
 
 `TypeScript` `Node.js` `SFTP` `DevOps`
 
-[![card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=Automatic-SFTP-Backup-System&theme=tokyonight&bg_color=0f172a&border_color=7C3AED&hide_border=true&title_color=7C3AED&text_color=E2E8F0)](https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System)
+[![Stars](https://img.shields.io/github/stars/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System?style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System) ![Last commit](https://img.shields.io/github/last-commit/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System?style=flat-square&color=7C3AED&labelColor=0f172a) ![Language](https://img.shields.io/github/languages/top/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System?style=flat-square&color=F43F5E&labelColor=0f172a)
 
 </td>
 <td width="50%" valign="top">
@@ -143,7 +143,7 @@ FiveM weapon disarm system for ESX, QBCore, Qbox and Standalone. ox_inventory su
 
 `Lua` `oxmysql` `ox_lib`
 
-[![card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BASIL-SAJI-MATHEW&repo=BSM_Weapon_Control&theme=tokyonight&bg_color=0f172a&border_color=10B981&hide_border=true&title_color=10B981&text_color=E2E8F0)](https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control)
+[![Stars](https://img.shields.io/github/stars/BASIL-SAJI-MATHEW/BSM_Weapon_Control?style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control) ![Last commit](https://img.shields.io/github/last-commit/BASIL-SAJI-MATHEW/BSM_Weapon_Control?style=flat-square&color=7C3AED&labelColor=0f172a) ![Language](https://img.shields.io/github/languages/top/BASIL-SAJI-MATHEW/BSM_Weapon_Control?style=flat-square&color=F43F5E&labelColor=0f172a)
 
 </td>
 </tr>
@@ -187,8 +187,10 @@ Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BASIL-SAJI-MATHEW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0&icon_color=7C3AED&rank_icon=github" alt="stats"/>
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BASIL-SAJI-MATHEW&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=E2E8F0" alt="langs"/>
+<img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
+<img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most used languages"/>
+<img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language"/>
+<img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time"/>
 
 <img src="https://streak-stats.demolab.com?user=BASIL-SAJI-MATHEW&theme=tokyonight&hide_border=true&background=0f172a&stroke=38BDF8&ring=7C3AED&fire=F43F5E&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8" alt="streak"/>
 
@@ -206,12 +208,6 @@ Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/output/github-snake.svg"/>
   <img alt="snake" src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/output/github-snake-dark.svg"/>
 </picture>
-</div>
-
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BASIL-SAJI-MATHEW&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>

@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:1e1b4b&height=280&section=header&text=BASIL%20SAJI%20MATHEW&fontSize=58&fontColor=38BDF8&animation=twinkling&fontAlignY=40&desc=%E2%9A%A1%20Backend%20Engineer%20%C2%B7%20Automation%20%C2%B7%20Security%20%C2%B7%20Founder%20%E2%9A%A1&descSize=20&descColor=C4B5FD&descAlignY=62" width="100%" alt="Basil Saji Mathew"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:1e1b4b&height=280&section=header&text=BASIL%20SAJI%20MATHEW&fontSize=58&fontColor=38BDF8&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20Automation%20%C2%B7%20Security%20%C2%B7%20Founder&descSize=20&descColor=C4B5FD&descAlignY=62" width="100%" alt="Basil Saji Mathew"/>
 
 <a href="https://github.com/BASIL-SAJI-MATHEW">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=%3E+booting+basil.sys+...;%3E+Python+Backend+Developer;%3E+Building+real-time+systems+%26+APIs;%3E+Automating+everything+that+can+be+automated;%3E+Securing+servers+%7C+Detecting+threats;%3E+CEO+%40+Altivora+Hosting;%3E+Open+to+Backend+Developer+roles+%F0%9F%9A%80" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=%3E+booting+basil.sys+...;%3E+Python+Backend+Developer;%3E+Building+real-time+systems+and+APIs;%3E+Automating+everything+that+can+be+automated;%3E+Securing+servers.+Detecting+threats.;%3E+CEO+at+Altivora+Hosting;%3E+Open+to+Backend+Developer+roles" alt="typing"/>
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
 
-## 🧬 `whoami`
+## whoami
 
 ```bash
 $ whoami
@@ -37,7 +37,7 @@ $ cat profile.json
   "location":  "Bangalore, India",
   "focus":     ["API Development", "Automation", "Real-time Systems", "Security Monitoring"],
   "databases": ["MySQL", "PostgreSQL", "Redis"],
-  "currently": "Building monitoring tools & backend services",
+  "currently": "Building monitoring tools and backend services",
   "open_to":   "Backend Developer opportunities",
   "fun_fact":  "Ships FiveM scripts that idle at 0.00ms"
 }
@@ -45,17 +45,39 @@ $ cat profile.json
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
 
-## ⚙️ Tech Arsenal
+## How I build
+
+The pattern behind most of my backend and automation work:
+
+```mermaid
+flowchart LR
+    A[Client / Event] --> B[FastAPI<br/>RBAC + validation]
+    B --> C[(Redis<br/>queue + cache)]
+    C --> D[Async Worker]
+    D --> E[(PostgreSQL / MySQL)]
+    D --> F[Firewall / Server Action]
+    D --> G[Discord Alert]
+    style B fill:#0f172a,stroke:#38BDF8,color:#E2E8F0
+    style C fill:#0f172a,stroke:#F43F5E,color:#E2E8F0
+    style D fill:#0f172a,stroke:#7C3AED,color:#E2E8F0
+    style E fill:#0f172a,stroke:#10B981,color:#E2E8F0
+    style F fill:#0f172a,stroke:#38BDF8,color:#E2E8F0
+    style G fill:#0f172a,stroke:#7C3AED,color:#E2E8F0
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
+
+## Tech arsenal
 
 <div align="center">
 
-**Backend & Languages**<br/>
+**Backend and languages**<br/>
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,ts,js,lua,bash&theme=dark" alt="backend"/>
 
 **Data**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" alt="data"/>
 
-**DevOps & Infra**<br/>
+**DevOps and infrastructure**<br/>
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,cloudflare,aws&theme=dark" alt="devops"/>
 
 **Frontend**<br/>
@@ -66,15 +88,25 @@ $ cat profile.json
 
 </div>
 
+### Skill map
+
+| Primary (daily use) | Working (comfortable) | Exploring (going deeper) |
+|---|---|---|
+| Python, FastAPI | Node.js, TypeScript | System design at scale |
+| MySQL, PostgreSQL | React, Next.js | Async Python patterns |
+| Linux, Docker | Nginx, Cloudflare | Observability and tracing |
+| Lua (FiveM) | AWS, GitHub Actions | Detection engineering |
+| Automation, scripting | Redis | Kubernetes |
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+## Featured projects
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [IP Whitelist Automation](https://github.com/BASIL-SAJI-MATHEW/IP-Whitelist-Automation)
+### [IP Whitelist Automation](https://github.com/BASIL-SAJI-MATHEW/IP-Whitelist-Automation)
 Production-grade IP whitelisting with **RBAC**, async processing and time-based firewall rules.
 
 `FastAPI` `Redis` `PostgreSQL` `Docker`
@@ -84,8 +116,8 @@ Production-grade IP whitelisting with **RBAC**, async processing and time-based 
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ [RDP Login Monitor](https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor)
-Real-time detection and alerting of suspicious Remote Desktop logins via Windows Event Logs. Built for blue-team / SOC use.
+### [RDP Login Monitor](https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor)
+Real-time detection and alerting of suspicious Remote Desktop logins via Windows Event Logs. Built for blue-team and SOC use.
 
 `Python` `SIEM` `Discord Alerts`
 
@@ -96,7 +128,7 @@ Real-time detection and alerting of suspicious Remote Desktop logins via Windows
 <tr>
 <td width="50%" valign="top">
 
-### 💾 [Automatic SFTP Backup System](https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System)
+### [Automatic SFTP Backup System](https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System)
 Multi-server VPS backups with sync, encryption, compression, database dumps and Discord notifications.
 
 `TypeScript` `Node.js` `SFTP` `DevOps`
@@ -106,8 +138,8 @@ Multi-server VPS backups with sync, encryption, compression, database dumps and 
 </td>
 <td width="50%" valign="top">
 
-### 🔫 [BSM Weapon Control](https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control)
-FiveM weapon disarm system for ESX / QBCore / Qbox / Standalone. ox_inventory support, MySQL cooldowns, **0.00ms idle**.
+### [BSM Weapon Control](https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control)
+FiveM weapon disarm system for ESX, QBCore, Qbox and Standalone. ox_inventory support, MySQL cooldowns, **0.00ms idle**.
 
 `Lua` `oxmysql` `ox_lib`
 
@@ -118,16 +150,40 @@ FiveM weapon disarm system for ESX / QBCore / Qbox / Standalone. ox_inventory su
 <tr>
 <td colspan="2" align="center" valign="top">
 
-### 🗄️ [FiveM Database Backup](https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup)
+### [FiveM Database Backup](https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup)
 Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord alerts.
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>More about each project</b> (click to expand)</summary>
+<br/>
+
+| Project | Problem it solves | Key features | Stack |
+|---|---|---|---|
+| IP Whitelist Automation | Manual firewall changes are slow and risky | RBAC, async jobs, rules that expire automatically | FastAPI, Redis, PostgreSQL, Docker |
+| RDP Login Monitor | Brute-force RDP attempts go unnoticed | Event log parsing, real-time alerts, threat analysis | Python, Windows Event Logs |
+| SFTP Backup System | Multi-VPS backups are tedious and fragile | Sync, encryption, compression, DB dumps, alerts | TypeScript, Node.js |
+| BSM Weapon Control | Server owners need a lightweight disarm system | Multi-framework, safe zones, admin tools | Lua, oxmysql |
+| FiveM Database Backup | Game databases need reliable backups | gzip, retention cleanup, Discord alerts | Node.js, MySQL |
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
 
-## 📊 Live Stats
+## What I can build for you
+
+| Backend and APIs | Automation | Security tooling | Game servers |
+|---|---|---|---|
+| REST APIs with FastAPI | Backup and sync pipelines | Login and intrusion monitoring | FiveM scripts (ESX, QBCore, Qbox) |
+| Auth, RBAC, async workers | Server and firewall workflows | Alerting to Discord | MySQL persistence |
+| MySQL, PostgreSQL, Redis | Scheduled jobs and bots | Log analysis | Performance tuning |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
+
+## Live stats
 
 <div align="center">
 
@@ -142,7 +198,7 @@ Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
 
-## 🐍 Contribution Snake
+## Contribution snake
 
 <div align="center">
 <picture>
@@ -152,7 +208,7 @@ Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord a
 </picture>
 </div>
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=BASIL-SAJI-MATHEW&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
@@ -160,14 +216,20 @@ Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
 
-## 🎯 Currently
+## Currently
 
-- 🔭 Building real-time monitoring tools and backend services
-- 🌱 Going deeper into async Python, FastAPI and system design
-- 🤝 Open to **Backend Developer** roles, and to collaborating on automation and security tooling
-- 🏢 Running **[Altivora Hosting](https://www.altivorahosting.com)**: game server and VPS hosting
+- Building real-time monitoring tools and backend services
+- Going deeper into async Python, FastAPI and system design
+- Open to **Backend Developer** roles, and to collaborating on automation and security tooling
+- Running **[Altivora Hosting](https://www.altivorahosting.com)**: game server and VPS hosting
+
+## Let's connect
+
+If you're hiring for a backend role, need an automation or monitoring tool built, or want to talk hosting, reach out on [LinkedIn](https://linkedin.com/in/basil-saji-mathew) or through [Altivora Hosting](https://www.altivorahosting.com).
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=700&lines=%22Automate+the+boring.+Secure+the+critical.+Ship+the+rest.%22" alt="quote"/>
 

@@ -107,6 +107,9 @@ flowchart LR
 <td width="50%" valign="top">
 
 ### [IP Whitelist Automation](https://github.com/BASIL-SAJI-MATHEW/IP-Whitelist-Automation)
+
+<a href="https://github.com/BASIL-SAJI-MATHEW/IP-Whitelist-Automation"><img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/assets/ip-whitelist-automation.png" width="100%" alt="IP-Whitelist-Automation"/></a>
+
 Production-grade IP whitelisting with **RBAC**, async processing and time-based firewall rules.
 
 `FastAPI` `Redis` `PostgreSQL` `Docker`
@@ -117,6 +120,9 @@ Production-grade IP whitelisting with **RBAC**, async processing and time-based 
 <td width="50%" valign="top">
 
 ### [RDP Login Monitor](https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor)
+
+<a href="https://github.com/BASIL-SAJI-MATHEW/Rdp-Login-Monitor"><img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/assets/rdp-login-monitor.png" width="100%" alt="Rdp-Login-Monitor"/></a>
+
 Real-time detection and alerting of suspicious Remote Desktop logins via Windows Event Logs. Built for blue-team and SOC use.
 
 `Python` `SIEM` `Discord Alerts`
@@ -129,6 +135,9 @@ Real-time detection and alerting of suspicious Remote Desktop logins via Windows
 <td width="50%" valign="top">
 
 ### [Automatic SFTP Backup System](https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System)
+
+<a href="https://github.com/BASIL-SAJI-MATHEW/Automatic-SFTP-Backup-System"><img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/assets/sftp-backup-system.png" width="100%" alt="Automatic-SFTP-Backup-System"/></a>
+
 Multi-server VPS backups with sync, encryption, compression, database dumps and Discord notifications.
 
 `TypeScript` `Node.js` `SFTP` `DevOps`
@@ -139,6 +148,9 @@ Multi-server VPS backups with sync, encryption, compression, database dumps and 
 <td width="50%" valign="top">
 
 ### [BSM Weapon Control](https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control)
+
+<a href="https://github.com/BASIL-SAJI-MATHEW/BSM_Weapon_Control"><img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/assets/bsm-weapon-control.png" width="100%" alt="BSM_Weapon_Control"/></a>
+
 FiveM weapon disarm system for ESX, QBCore, Qbox and Standalone. ox_inventory support, MySQL cooldowns, **0.00ms idle**.
 
 `Lua` `oxmysql` `ox_lib`
@@ -151,6 +163,9 @@ FiveM weapon disarm system for ESX, QBCore, Qbox and Standalone. ox_inventory su
 <td colspan="2" align="center" valign="top">
 
 ### [FiveM Database Backup](https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup)
+
+<a href="https://github.com/BASIL-SAJI-MATHEW/fivem-database-backup"><img src="https://raw.githubusercontent.com/BASIL-SAJI-MATHEW/BASIL-SAJI-MATHEW/main/assets/fivem-database-backup.png" width="100%" alt="fivem-database-backup"/></a>
+
 Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord alerts.
 
 </td>

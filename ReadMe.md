@@ -15,7 +15,8 @@
 
 <br/><br/>
 
-<a href="https://www.altivorahosting.com"><img src="https://img.shields.io/badge/Website-Altivora%20Hosting-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Website"/></a>
+<a href="https://basilsajimathew.com"><img src="https://img.shields.io/badge/Portfolio-basilsajimathew.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio website"/></a>
+<a href="https://www.altivorahosting.com"><img src="https://img.shields.io/badge/Company-Altivora%20Hosting-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Altivora Hosting"/></a>
 <a href="https://linkedin.com/in/basil-saji-mathew"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/basil_saji_mathew"><img src="https://img.shields.io/badge/Instagram-Follow-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 <img src="https://komarev.com/ghpvc/?username=BASIL-SAJI-MATHEW&label=VIEWS&color=38BDF8&style=for-the-badge&labelColor=0f172a" alt="views"/>
@@ -246,7 +247,7 @@ Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord a
 
 ## Let's connect
 
-If you're hiring for a backend role, need an automation or monitoring tool built, or want to talk hosting, email [hello@basilsajimathew.com](mailto:hello@basilsajimathew.com), reach out on [LinkedIn](https://linkedin.com/in/basil-saji-mathew) or through [Altivora Hosting](https://www.altivorahosting.com).
+If you're hiring for a backend role, need an automation or monitoring tool built, or want to talk hosting, visit [basilsajimathew.com](https://basilsajimathew.com) (portfolio, guides and blog), email [hello@basilsajimathew.com](mailto:hello@basilsajimathew.com), reach out on [LinkedIn](https://linkedin.com/in/basil-saji-mathew) or through [Altivora Hosting](https://www.altivorahosting.com).
 
 <div align="center">
 

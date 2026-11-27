@@ -246,7 +246,7 @@ Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord a
 
 ## Let's connect
 
-If you're hiring for a backend role, need an automation or monitoring tool built, or want to talk hosting, reach out on [LinkedIn](https://linkedin.com/in/basil-saji-mathew) or through [Altivora Hosting](https://www.altivorahosting.com).
+If you're hiring for a backend role, need an automation or monitoring tool built, or want to talk hosting, email [hello@basilsajimathew.com](mailto:hello@basilsajimathew.com), reach out on [LinkedIn](https://linkedin.com/in/basil-saji-mathew) or through [Altivora Hosting](https://www.altivorahosting.com).
 
 <div align="center">
 

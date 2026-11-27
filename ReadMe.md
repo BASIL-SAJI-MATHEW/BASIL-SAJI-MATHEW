@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:1e1b4b&height=280&section=header&text=BASIL%20SAJI%20MATHEW&fontSize=58&fontColor=38BDF8&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20Automation%20%C2%B7%20Security%20%C2%B7%20Founder&descSize=20&descColor=C4B5FD&descAlignY=62" width="100%" alt="Basil Saji Mathew"/>
 
 <a href="https://github.com/BASIL-SAJI-MATHEW">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=%3E+booting+basil.sys+...;%3E+Python+Backend+Developer;%3E+Building+real-time+systems+and+APIs;%3E+Automating+everything+that+can+be+automated;%3E+Securing+servers.+Detecting+threats.;%3E+CEO+at+Altivora+Hosting;%3E+Open+to+Backend+Developer+roles" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=%3E+booting+basil.sys+...;%3E+Lua+Developer+and+Backend+Engineer;%3E+Building+real-time+systems+and+APIs;%3E+Automating+everything+that+can+be+automated;%3E+Securing+servers.+Detecting+threats.;%3E+CEO+at+Altivora+Hosting;%3E+Open+to+Backend+Developer+roles" alt="typing"/>
 </a>
 
 <br/>
@@ -32,7 +32,7 @@ basil-saji-mathew
 
 $ cat profile.json
 {
-  "role":      "Python Backend Developer",
+  "role":      "Lua Developer and Backend Engineer",
   "company":   "Altivora Hosting (Founder & CEO)",
   "location":  "Bangalore, India",
   "focus":     ["API Development", "Automation", "Real-time Systems", "Security Monitoring"],
@@ -72,7 +72,7 @@ flowchart LR
 <div align="center">
 
 **Backend and languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,ts,js,lua,bash&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=lua,nodejs,express,ts,js,bash&theme=dark" alt="backend"/>
 
 **Data**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" alt="data"/>
@@ -92,11 +92,11 @@ flowchart LR
 
 | Primary (daily use) | Working (comfortable) | Exploring (going deeper) |
 |---|---|---|
-| Python, FastAPI | Node.js, TypeScript | System design at scale |
-| MySQL, PostgreSQL | React, Next.js | Async Python patterns |
-| Linux, Docker | Nginx, Cloudflare | Observability and tracing |
-| Lua (FiveM) | AWS, GitHub Actions | Detection engineering |
-| Automation, scripting | Redis | Kubernetes |
+| Lua (FiveM) | Node.js, TypeScript | System design at scale |
+| MySQL, PostgreSQL | React, Next.js | Advanced Lua patterns |
+| Linux, Docker | Redis | Observability and tracing |
+| Automation, scripting | AWS, GitHub Actions | Detection engineering |
+| Redis | Nginx, Cloudflare | Kubernetes |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt=""/>
 
@@ -240,7 +240,7 @@ Automated MySQL backups for FiveM servers with gzip, smart cleanup and Discord a
 ## Currently
 
 - Building real-time monitoring tools and backend services
-- Going deeper into async Python, FastAPI and system design
+- Going deeper into Lua, backend services and system design
 - Open to **Backend Developer** roles, and to collaborating on automation and security tooling
 - Running **[Altivora Hosting](https://www.altivorahosting.com)**: game server and VPS hosting
 
